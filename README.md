@@ -2,7 +2,6 @@
 
 Questo progetto è un esercizio pratico di **responsive design** utilizzando **CSS Media Queries**. L'obiettivo è rendere una pagina HTML già strutturata **navigabile su dispositivi tablet e mobile**, senza modificare l'HTML o il CSS esistente, ma aggiungendo esclusivamente regole CSS personalizzate.
 
----
 
 ## 🎯 Obiettivi
 
@@ -13,7 +12,6 @@ Questo progetto è un esercizio pratico di **responsive design** utilizzando **C
 - ✅ Mantenere intatto il codice HTML/CSS fornito
 - 💡 Bonus: eliminare la scrollbar orizzontale su dispositivi desktop stretti
 
----
 
 ## 🧩 Media Queries implementate
 
@@ -30,7 +28,6 @@ Questo progetto è un esercizio pratico di **responsive design** utilizzando **C
 ### 3. 🖥 Bonus (`max-width: 1160px`)
 - Risolto il problema della **scrollbar orizzontale** visibile tra 768px e 1160px
 
----
 
 ## ✅ Tecnologie utilizzate
 
